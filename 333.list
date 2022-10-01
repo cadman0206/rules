@@ -1,0 +1,5 @@
+USER-AGENT,com.google.ios.youtube*,US Server
+USER-AGENT,YouTube*,US Server
+DOMAIN-SUFFIX,googlevideo.com,US Server
+DOMAIN-SUFFIX,youtube.com,US Server
+DOMAIN,youtubei.googleapis.com,US Server
