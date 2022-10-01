@@ -1,5 +1,5 @@
-USER-AGENT,com.google.ios.youtube*,ForeignMedia
-USER-AGENT,YouTube*,ForeignMedia
-DOMAIN-SUFFIX,googlevideo.com,ForeignMedia
-DOMAIN-SUFFIX,youtube.com,ForeignMedia
-DOMAIN,youtubei.googleapis.com,ForeignMedia
+USER-AGENT,com.google.ios.youtube*,US Server
+USER-AGENT,YouTube*,US Server
+DOMAIN-SUFFIX,googlevideo.com,US Server
+DOMAIN-SUFFIX,youtube.com,US Server
+DOMAIN,youtubei.googleapis.com,US Server
