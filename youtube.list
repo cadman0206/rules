@@ -1,9 +1,7 @@
 
 
 # YouTube
-USER-AGENT,*youtube*
-USER-AGENT,YouTube*
-USER-AGENT,com.google.ios.youtube*
+
 HOST-KEYWORD,youtube
 HOST,youtubei.googleapis.com
 HOST,yt3.ggpht.com
